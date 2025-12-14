@@ -10,3 +10,4 @@ pillow
 scikit-learn
 tensorboard
 faiss-cpu
+gradio
